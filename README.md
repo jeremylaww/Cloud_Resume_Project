@@ -1,4 +1,4 @@
-# Cloud_Resume_Project
+# Jeremy Law Cloud Resume Blog Post 
 
 It would be an understatement to say I was extremely nervous when Professor Lontok assigned us this cloud resume project as our final. For those unfamiliar with the expression of “having a green thumb,” it means that you have a knack for being a gardener and fostering the growth of your plants. Everything you touch seems to end up strong and healthy. However there is a counterpart to this saying called a “brown thumb.” I was wholeheartedly convinced that I had the “brown thumb” for anything that has to do with code. It wasn’t like I had no experience in coding either. I’ve taken multiple coding courses all throughout my college life and even did my own practice over the summer. However, every line of code I wrote seemed to break. So, you can only imagine the pit I felt in my stomach when it was announced that our final project, worth 15% of my grade, was to code a website from scratch using programs I’ve never even heard of. 
 
